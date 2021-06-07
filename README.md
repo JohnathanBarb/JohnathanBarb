@@ -3,11 +3,11 @@
 - 19 years old;
 - Brazil, São Paulo;
 - Python Lover;
-- Free software entusiasta;
+- Free Software Enthusiast;
 
 
- <a href = "mailto:jbarbosa0504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sbrunomello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:jbarbosa0504@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/johnathan-barbosa-de-ara%C3%BAjo-78a38a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 # Technologies
 <div>
@@ -22,23 +22,9 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
 </div>
 </div>
+</br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnathanbarb&exclude_repo=analise-facial&layout=compact"/>
-
-
  
-# Main Projects:
+# Main Projects
 - [Hortifruti Scrapping](https://github.com/JohnathanBarb/hortifruti_scrapping/)
-<!--
-**JohnathanBarb/JohnathanBarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Films Django CRUD](https://github.com/JohnathanBarb/filmes-django)
