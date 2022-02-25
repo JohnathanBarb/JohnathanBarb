@@ -26,5 +26,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnathanbarb&exclude_repo=analise-facial&layout=compact"/>
  
 # Main Projects
+- [PokeAPI Scrappy](https://github.com/JohnathanBarb/pokeapi_scrapy)
 - [Hortifruti Scrapping](https://github.com/JohnathanBarb/hortifruti_scrapping/)
 - [Films Django CRUD](https://github.com/JohnathanBarb/filmes-django)
