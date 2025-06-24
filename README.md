@@ -1,6 +1,5 @@
 ### Hi there, I'm Johnathan 👋
 
-- 20 years old;
 - Brazil, São Paulo;
 - Python Lover;
 - Free Software Enthusiast;
